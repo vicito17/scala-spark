@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e77ae7bf-9eeb-4dbd-bb67-2b20a7fb7153" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a1IO0YdRYpWyy1JmaWPX89LEaG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Descargas/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../curso scala/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../curso scala/semana 1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../curso scala/semana 2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../curso spark/wikipedia" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e77ae7bf-9eeb-4dbd-bb67-2b20a7fb7153" name="Default Changelist" comment="" />
+      <created>1585896636907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585896636907</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="313" width="559" height="167" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1585896680442">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="432" y="313" width="559" height="167" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/67.27.1299.741@67.27.1299.741" timestamp="1585896680442" />
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585896691503">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1585896691503" />
+    <state x="499" y="113" width="424" height="567" key="FileChooserDialogImpl" timestamp="1585897167755">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="113" width="424" height="567" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585897167755" />
+    <state x="302" y="95" width="884" height="602" key="NewModule_or_Project.wizard" timestamp="1585897214865">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="302" y="95" width="884" height="602" key="NewModule_or_Project.wizard/67.27.1299.741@67.27.1299.741" timestamp="1585897214865" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1585897136025">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1585897136025" />
+  </component>
+</project>
